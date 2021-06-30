@@ -1,0 +1,18 @@
+
+    .bg {
+        background-image: url(https://i.imgur.com/ew6m6qQ.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        width: 100%;
+        height: auto;
+      min-height: 40rem;
+      }
+    .body {
+        text-align: center;
+        background: rgba(0, 0, 0, .6);
+        width: 60%;
+        margin: auto;
+        margin-top:10%;
+      }
